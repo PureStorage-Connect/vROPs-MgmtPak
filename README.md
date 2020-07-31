@@ -3,7 +3,8 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There are currently two management packs available for download: <br>
+<p>There are currently two management packs available for download depending on the version of vROps you are using: <br>
+  <br>
 <table style="width:100%">
   <tr>
     <th>Management Pack Version</th>

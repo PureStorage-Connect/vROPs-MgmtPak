@@ -35,7 +35,7 @@
 
 
 <!-- wp:paragraph -->
-<p>For the official listing refer to the VMware Compatibility Guide (VCG)<a href="https://www.vmware.com/resources/compatibility/detail.php?productid=47287&deviceCategory=vrops&details=1&partner=399&page=1&display_interval=10&sortColumn=Partner&sortOrder=Asc">here</a>.</p>
+<p>For the official listing refer to the VMware Compatibility Guide (VCG) <a href="https://www.vmware.com/resources/compatibility/detail.php?productid=47287&deviceCategory=vrops&details=1&partner=399&page=1&display_interval=10&sortColumn=Partner&sortOrder=Asc">here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->

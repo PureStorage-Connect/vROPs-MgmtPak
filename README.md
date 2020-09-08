@@ -21,15 +21,6 @@
     <td>5.0+</td>
     <td><a href="https://support.purestorage.com/Solutions/VMware_Platform_Guide/User_Guides_for_VMware_Solutions/VMware_vRealize_Operations_-_vROps/Web_Guide%3A_Pure_Storage_FlashArray_Management_Pack_2.0.11">User Guide</a></td>
     <td><a href="https://support.purestorage.com/Solutions/VMware_Platform_Guide/Release_Notes_for_VMware_Solutions/vROps_2.x_Management_Pack_Release_Notes">Release Notes</a></td>
-  </tr>
-  <tr>
-    <td>3.0.1</td>
-    <td>July 6, 2020</td>
-    <td>8.0, 8.1</td>
-    <td>5.1+</td>
-    <td><a href="https://support.purestorage.com/Solutions/VMware_Platform_Guide/User_Guides_for_VMware_Solutions/VMware_vRealize_Operations_-_vROps/Web_Guide%3A_Pure_Storage_FlashArray_Management_Pack_for_VMware_vRealize_Operations_Manager_(vROps)">User Guide</a></td>
-    <td><a href="https://support.purestorage.com/Solutions/VMware_Platform_Guide/Release_Notes_for_VMware_Solutions/vROps_3.x_Management_Pack_Release_Notes">Release Notes</a></td>
-  </tr>
     <tr>
     <td>3.0.2</td>
     <td>September 8, 2020</td>

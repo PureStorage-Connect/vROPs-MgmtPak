@@ -15,11 +15,11 @@
     <th>Release Notes</th>
   </tr>
   <tr>
-    <td>2.0.11</td>
-    <td>February 2020</td>
+    <td>2.0.12</td>
+    <td>February 2021</td>
     <td>6.7, 7.0, 7.5</td>
     <td>5.0+</td>
-    <td><a href="https://support.purestorage.com/Solutions/VMware_Platform_Guide/User_Guides_for_VMware_Solutions/VMware_vRealize_Operations_-_vROps/Web_Guide%3A_Pure_Storage_FlashArray_Management_Pack_2.0.11">User Guide</a></td>
+    <td><a href="https://support.purestorage.com/Solutions/VMware_Platform_Guide/User_Guides_for_VMware_Solutions/VMware_vRealize_Operations_-_vROps/Web_Guide%3A_Pure_Storage_FlashArray_Management_Pack_2.0.12">User Guide</a></td>
     <td><a href="https://support.purestorage.com/Solutions/VMware_Platform_Guide/Release_Notes_for_VMware_Solutions/vROps_2.x_Management_Pack_Release_Notes">Release Notes</a></td>
     <tr>
     <td>3.0.2</td>
